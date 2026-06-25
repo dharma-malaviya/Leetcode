@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/dharma-malaviya/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dharma-malaviya/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/dharma-malaviya/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,9 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/dharma-malaviya/Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0796-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/dharma-malaviya/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
