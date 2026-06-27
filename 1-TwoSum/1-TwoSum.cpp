@@ -1,0 +1,21 @@
+// Last updated: 6/27/2026, 7:30:46 PM
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int tar) {
+        unordered_map<int, int> m;
+        vector<int> ans;
+
+        for(int i = 0; i < nums.size(); i++){
+            int first = nums[i];
+            int sec = tar - first;
+
+            if(m.find(sec) != m.end()){
+                ans.push_back(m[sec]);
+                ans.push_back(i);
+                break;
+            }
+            m[first] = i;
+        }
+return ans;
+    }
+};
