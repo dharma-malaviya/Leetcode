@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dharma-malaviya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dharma-malaviya/Leetcode/tree/master/0118-pascals-triangle) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dharma-malaviya/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/dharma-malaviya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0796-rotate-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharma-malaviya/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 ## String Matching
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dharma-malaviya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharma-malaviya/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
