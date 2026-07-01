@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0796-rotate-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharma-malaviya/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/dharma-malaviya/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String Matching
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/dharma-malaviya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharma-malaviya/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/dharma-malaviya/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
