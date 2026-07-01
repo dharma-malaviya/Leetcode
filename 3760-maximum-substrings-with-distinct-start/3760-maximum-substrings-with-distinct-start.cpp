@@ -1,10 +1,7 @@
 class Solution {
 public:
     int maxDistinct(string s) {
-        unordered_map<char, int> m;
-
-        for (char c : s)
-            m[c]++;
+        unordered_set<char> m(s.begin(), s.end());
 
         return m.size();
     }
