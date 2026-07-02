@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dharma-malaviya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/dharma-malaviya/Leetcode/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dharma-malaviya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/dharma-malaviya/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dharma-malaviya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/dharma-malaviya/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0205-isomorphic-strings](https://github.com/dharma-malaviya/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dharma-malaviya/Leetcode/tree/master/0242-valid-anagram) |
