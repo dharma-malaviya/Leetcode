@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/dharma-malaviya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dharma-malaviya/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/dharma-malaviya/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharma-malaviya/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dharma-malaviya/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/dharma-malaviya/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dharma-malaviya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/dharma-malaviya/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharma-malaviya/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dharma-malaviya/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dharma-malaviya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/dharma-malaviya/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharma-malaviya/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
