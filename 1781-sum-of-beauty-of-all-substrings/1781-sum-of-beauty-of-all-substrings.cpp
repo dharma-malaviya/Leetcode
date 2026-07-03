@@ -5,19 +5,20 @@ public:
         int n = s.size();
 
         for(int i=0; i<n; i++){
-            unordered_map<char, int> feqMap;
-            feqMap[s[i]] = 1;
-            for(int j=i+1; j<n; j++){
-                feqMap[s[j]]++;
-                int max = INT_MIN, min = INT_MAX;
-            for(auto pair : feqMap){
-                int frequency  = pair.second;
-                if(frequency > max) max = pair.second;
-                if(frequency < min) min = pair.second;
+            int freq[26] = {0};
+
+            for(int j=i; j<n; j++){
+                freq[s[j] - 'a']++;
+
+                int maxF = 0, minF = INT_MAX;
+
+                for(int k=0; k<26; k++){
+                    if(freq[k] == 0) continue;
+                    maxF = max(maxF, freq[k]);
+                    minF = min(minF, freq[k]);
+                }
+                ans += (maxF - minF);
             }
-            ans += (max - min);
-            }
-            
         }
         return ans;
     }
