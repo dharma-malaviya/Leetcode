@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dharma-malaviya/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1288-remove-covered-intervals](https://github.com/dharma-malaviya/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharma-malaviya/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/dharma-malaviya/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dharma-malaviya/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/dharma-malaviya/Leetcode/tree/master/0048-rotate-image) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharma-malaviya/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
