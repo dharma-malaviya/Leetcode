@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dharma-malaviya/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/dharma-malaviya/Leetcode/tree/master/0048-rotate-image) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharma-malaviya/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dharma-malaviya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dharma-malaviya/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3925-concatenate-array-with-reverse](https://github.com/dharma-malaviya/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dharma-malaviya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
