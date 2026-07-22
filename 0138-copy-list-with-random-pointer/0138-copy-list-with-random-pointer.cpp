@@ -17,22 +17,35 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        unordered_map<Node*, Node*> mp;
-
         Node* temp = head;
+        //1) interleave clones
         while(temp != NULL){
-            Node* newNode = new Node(temp->val);
-            mp[temp] = newNode;
-            temp = temp->next;
+            Node* copyNode = new Node(temp->val);
+            copyNode->next = temp->next;
+            temp->next = copyNode;
+            temp = temp->next->next;
         }
 
+        //2) Assign random pointers to clone
         temp = head;
         while(temp != NULL){
-            Node* copyNode = mp[temp];
-            copyNode->next = mp[temp->next];
-            copyNode->random = mp[temp->random];
+            Node* copyNode = temp->next;
+            if(temp->random != NULL)
+            copyNode->random = temp->random->next;
+
+            temp = temp->next->next;
+        }
+
+        //3) Detach two lists
+        temp = head;
+        Node* dummyNode = new Node(-1);
+        Node* res = dummyNode;
+        while(temp != NULL){
+            res->next = temp->next;
+            temp->next = temp->next->next;
+            res = res->next;
             temp = temp->next;
         }
-        return mp[head];
+        return dummyNode->next;
     }
 };
