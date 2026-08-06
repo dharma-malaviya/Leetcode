@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/dharma-malaviya/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/dharma-malaviya/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dharma-malaviya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/dharma-malaviya/Leetcode/tree/master/1472-design-browser-history) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dharma-malaviya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dharma-malaviya/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dharma-malaviya/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/dharma-malaviya/Leetcode/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dharma-malaviya/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/dharma-malaviya/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/dharma-malaviya/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dharma-malaviya/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/dharma-malaviya/Leetcode/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dharma-malaviya/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -204,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dharma-malaviya/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/dharma-malaviya/Leetcode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/dharma-malaviya/Leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/dharma-malaviya/Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
