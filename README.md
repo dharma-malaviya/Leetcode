@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dharma-malaviya/Leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dharma-malaviya/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/dharma-malaviya/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/dharma-malaviya/Leetcode/tree/master/0056-merge-intervals) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dharma-malaviya/Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/dharma-malaviya/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dharma-malaviya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/dharma-malaviya/Leetcode/tree/master/0148-sort-list) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dharma-malaviya/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/dharma-malaviya/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dharma-malaviya/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/dharma-malaviya/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/dharma-malaviya/Leetcode/tree/master/0088-merge-sorted-array) |
