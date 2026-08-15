@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dharma-malaviya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharma-malaviya/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/dharma-malaviya/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dharma-malaviya/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/dharma-malaviya/Leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/dharma-malaviya/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/dharma-malaviya/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dharma-malaviya/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
 | ------- |
