@@ -11,26 +11,28 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        vector<int> vals;
-        for(ListNode* temp = head; temp; temp = temp->next){
-            vals.push_back(temp->val);
-        }
+        ListNode* lessDummy = new ListNode(-1);
+        ListNode* geqDummy = new ListNode(-1);
 
-        ListNode* dummy = new ListNode(-1);
-        ListNode* temp = dummy;
+        ListNode* lessTail = lessDummy;
+        ListNode* geqTail = geqDummy;
 
-        for(int v : vals){
-            if(v < x){
-               temp->next = new ListNode(v);
-                temp = temp->next;
+        ListNode* temp = head;
+
+        while(temp != nullptr){
+            if(temp->val < x){
+                lessTail->next = temp;
+                lessTail = lessTail->next;
             }
-        }
-        for(int v : vals){
-            if(v >= x){
-               temp->next = new ListNode(v);
-                temp = temp->next;
+            else{
+                geqTail->next = temp;
+                geqTail = geqTail->next;
             }
+            temp = temp->next;
+            
+            lessTail->next = geqDummy->next;
+            geqTail->next = nullptr;
         }
-        return dummy->next;
+        return lessDummy->next;
     }
 };
