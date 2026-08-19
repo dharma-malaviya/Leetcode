@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dharma-malaviya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/dharma-malaviya/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dharma-malaviya/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/dharma-malaviya/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/dharma-malaviya/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/dharma-malaviya/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dharma-malaviya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/dharma-malaviya/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/dharma-malaviya/Leetcode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/dharma-malaviya/Leetcode/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/dharma-malaviya/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dharma-malaviya/Leetcode/tree/master/0242-valid-anagram) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
@@ -231,4 +234,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/dharma-malaviya/Leetcode/tree/master/1472-design-browser-history) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
