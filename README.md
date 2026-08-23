@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dharma-malaviya/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/dharma-malaviya/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/dharma-malaviya/Leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/dharma-malaviya/Leetcode/tree/master/0067-add-binary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dharma-malaviya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharma-malaviya/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dharma-malaviya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dharma-malaviya/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/dharma-malaviya/Leetcode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/dharma-malaviya/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/dharma-malaviya/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dharma-malaviya/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/dharma-malaviya/Leetcode/tree/master/0290-word-pattern) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dharma-malaviya/Leetcode/tree/master/0067-add-binary) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharma-malaviya/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dharma-malaviya/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dharma-malaviya/Leetcode/tree/master/0067-add-binary) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dharma-malaviya/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3925-concatenate-array-with-reverse](https://github.com/dharma-malaviya/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
