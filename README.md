@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dharma-malaviya/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/dharma-malaviya/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2027-minimum-moves-to-convert-string](https://github.com/dharma-malaviya/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharma-malaviya/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [3110-score-of-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/3110-score-of-a-string) |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2027-minimum-moves-to-convert-string](https://github.com/dharma-malaviya/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 <!---LeetCode Topics End-->
