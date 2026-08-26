@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/dharma-malaviya/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharma-malaviya/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dharma-malaviya/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3110-score-of-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dharma-malaviya/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String Matching
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2027-minimum-moves-to-convert-string](https://github.com/dharma-malaviya/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dharma-malaviya/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
