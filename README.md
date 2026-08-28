@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dharma-malaviya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dharma-malaviya/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/dharma-malaviya/Leetcode/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dharma-malaviya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharma-malaviya/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/dharma-malaviya/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/dharma-malaviya/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dharma-malaviya/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dharma-malaviya/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/dharma-malaviya/Leetcode/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 ## Binary Search
 |  |
 | ------- |
