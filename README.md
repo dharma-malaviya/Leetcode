@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dharma-malaviya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/dharma-malaviya/Leetcode/tree/master/1472-design-browser-history) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dharma-malaviya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dharma-malaviya/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dharma-malaviya/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2399-check-distances-between-same-letters](https://github.com/dharma-malaviya/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/dharma-malaviya/Leetcode/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2027-minimum-moves-to-convert-string](https://github.com/dharma-malaviya/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dharma-malaviya/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sliding Window
 |  |
 | ------- |
