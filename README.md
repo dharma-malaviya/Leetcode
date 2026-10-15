@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dharma-malaviya/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharma-malaviya/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dharma-malaviya/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/dharma-malaviya/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/dharma-malaviya/Leetcode/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dharma-malaviya/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dharma-malaviya/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/dharma-malaviya/Leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
